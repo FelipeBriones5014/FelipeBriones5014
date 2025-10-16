@@ -1,16 +1,26 @@
-## Hi there 👋
+# Felipe Briones
 
-<!--
-**FelipeBriones5014/FelipeBriones5014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics graduate with a strong analytical background, currently developing advanced programming and data analysis skills.  
+My work integrates scientific reasoning with modern tools in data science, artificial intelligence, and automation.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Areas of Interest
+- Data Science and Statistical Analysis  
+- Artificial Intelligence and Machine Learning  
+- Scientific Computing and Numerical Methods  
+- Data Visualization and Automation with Python  
+
+---
+
+### 🧰 Technical Stack
+- **Languages:** Python  
+- **Libraries:** pandas, NumPy, Matplotlib, Seaborn  
+- **Tools:** Jupyter Notebook, VS Code, Git & GitHub  
+
+---
+
+### 💡 Approach
+I apply the same structured, evidence-based thinking learned from Physics to the analysis and interpretation of data.  
+My goal is to build a rigorous and transparent workflow for data-driven understanding.
+
