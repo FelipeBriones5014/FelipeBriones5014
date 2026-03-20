@@ -11,7 +11,7 @@ I'm a Physics graduate transitioning into Data Science, currently working on a r
 data engineering project for a solar energy company in Chile. My physics background gives 
 me a strong foundation in analytical thinking, modeling, and working with complex datasets.
 
-I'm currently applying to Master's programs in Portugal (2025) to deepen my expertise 
+I'm currently applying to Master's programs in Portugal (2026) to deepen my expertise 
 in Data Science and AI.
 
 ---
